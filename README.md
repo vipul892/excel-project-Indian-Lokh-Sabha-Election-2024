@@ -61,5 +61,5 @@ The objective of this project is to transform raw election data into clear, stru
 * Interact with charts for insights
 
 📸 Dashboard Preview
-![Indian Lok Sabha Election 2024 Excel Dashboard]()
-
+![Indian Lok Sabha Election 2024 Excel Dashboard](dashbord_images/dashbord1.PNG)
+![Indian Lok Sabha Election 2024 Excel Dashboard](dashbord_images/dashbord2.PNG)
